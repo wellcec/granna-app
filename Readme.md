@@ -1,6 +1,6 @@
 # 🦅 Granna - Controle Financeiro Pessoal
 
-![Version](https://img.shields.io/badge/version-1.1.6-blue.svg)
+![Version](https://img.shields.io/badge/version-1.6.1-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 Aplicação desktop para controle financeiro pessoal. Oferece uma interface moderna e intuitiva para gerenciar transações, categorias, metas financeiras e lembretes.
