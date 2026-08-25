@@ -20,7 +20,7 @@ Para utilizar o Granna, siga os passos abaixo:
 
 3. **Inicie o aplicativo**:
    - Abra a pasta onde você descompactou os arquivos.
-   - Dê um duplo clique no executável **`Granna.exe`** (no Windows) ou no arquivo correspondente à sua plataforma (macOS/Linux).
+   - Dê um duplo clique no executável **`Ascend.exe`** (no Windows) ou no arquivo correspondente à sua plataforma (macOS/Linux).
    
 ---
 
