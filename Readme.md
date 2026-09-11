@@ -1,4 +1,4 @@
-# 🦅 Granna - Controle Financeiro Pessoal
+# 🦅 Orbi - Controle Financeiro Pessoal
 
 ![Version](https://img.shields.io/badge/version-1.6.1-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
@@ -7,7 +7,7 @@ Aplicação desktop para controle financeiro pessoal. Oferece uma interface mode
 
 ## 🚀 Como Instalar e Executar
 
-Para utilizar o Granna, siga os passos abaixo:
+Para utilizar o Orbi, siga os passos abaixo:
 
 1. **Baixe o arquivo compactado (`.zip`)** do aplicativo.
 2. **Descompacte o arquivo**:
@@ -20,7 +20,7 @@ Para utilizar o Granna, siga os passos abaixo:
 
 3. **Inicie o aplicativo**:
    - Abra a pasta onde você descompactou os arquivos.
-   - Dê um duplo clique no executável **`Ascend.exe`** (no Windows) ou no arquivo correspondente à sua plataforma (macOS/Linux).
+   - Dê um duplo clique no executável **`Orbi.exe`** (no Windows) ou no arquivo correspondente à sua plataforma (macOS/Linux).
    
 ---
 
